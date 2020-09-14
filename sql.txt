@@ -36,4 +36,4 @@ UPDATE Products SET Price = 20.5  WHERE ProductID = 2;
 
 (6) Delete all rows of the Products Table where the price is less than 7.00. Paste your SQL statement below.
 
-DELETE FROM Products WHERE Price < 30;
+DELETE FROM Products WHERE Price < 7;
