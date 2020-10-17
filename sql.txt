@@ -16,7 +16,7 @@ SELECT * FROM Customers
 Paste your SQL statement below.
 
 SELECT * FROM OrderDetails 
-    WHERE ProductID > 51 and Quantity > 10;
+    WHERE ProductID = 51 and Quantity > 10;
 
 
 (4) Insert 3 rows into the Products table.  Note that you will have to specify a valid SupplierID and CategoryID, 
